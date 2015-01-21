@@ -4,6 +4,7 @@
   "description": "xcode color scheme parser",
   "main": "index.js",
   "dependencies": {
+    "plist": "^1.1.0"
   },
   "devDependencies": {
     "istanbul": "^0.3.2",
@@ -21,7 +22,11 @@
     "url": "https://github.com/lisposter/dvtcolortheme-parser/issues"
   },
   "homepage": "https://github.com/lisposter/dvtcolortheme-parser",
-  "keywords": ["dvtcolortheme","colorscheme","parser"],
+  "keywords": [
+    "dvtcolortheme",
+    "colorscheme",
+    "parser"
+  ],
   "author": "Leigh Zhu",
   "license": "MIT"
 }

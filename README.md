@@ -14,6 +14,12 @@ $ npm install dvtcolortheme-parser
 ## Example
 
 ## Usage
+```js
+var parser = require('dvtcolortheme-parser');
+
+parser('/path/to/something.dvtcolortheme');
+```
+
 
 ## License
 
